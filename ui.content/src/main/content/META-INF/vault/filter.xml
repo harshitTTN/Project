@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/bpit4622" mode="merge"/>
+    <filter root="/content/bpit4622" mode="merge"/>
+    <filter root="/content/dam/bpit4622" mode="merge"/>
+    <filter root="/content/experience-fragments/bpit4622" mode="merge"/>
+</workspaceFilter>
